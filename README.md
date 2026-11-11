@@ -107,8 +107,11 @@ Ele recebe o comando sobre receita e despesa diretamente via chat, organiza o sa
     Como melhorar e implementar o projeto.
 
 > [!TIP]
-> Publique seu repositório e compartilhe o link na plataforma da DIO! Sua entrega é a prova de que você domina o raciocínio de Vibe Coding, mesmo sem escrever uma única linha de código.
+Acesse o protótipo:
+https://papo-bolso-em-dia.lovable.app/
+
 
 ## 💬 Conclusão
+Com esse projeto foi possível entender os conceitos de IA e Vibe Coding, criando um aplicativo completo sem escrever uma linha de código!
 
 Vibe Coding é sobre clareza, curiosidade e criatividade, não sobre perfeição técnica. O verdadeiro objetivo aqui é aprender a pensar junto com a IA, transformando ideias em conceitos reais e enxergando a tecnologia como uma extensão do seu raciocínio criativo. Cada interação é um experimento, quanto mais clara for sua intenção, mais surpreendente será o resultado.
